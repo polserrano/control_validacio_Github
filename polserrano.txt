@@ -1,4 +1,13 @@
-guillem barjuan
-miquel vico
-joan osuna
-pol valles
+guillem barjuan, 18, estudis dam, treballant actualment
+miquel vico, 18, estudis dam, estudiant actualment
+joan osuna, 18, estudis dam, estudiant actualment
+pol valles, 18, estudis dam, estudiant actualment
+
+----- PROJECTES TREBALLATS -----
+
+- Projecte 1: Creacio mapa roblox amb grups de 4 integrants. (Pol Valles - Programador / Miquel Vico - Tester)
+    - Eines Usades: Roblox Studio, Codex
+- Projecte 2: Creació d'una xarxa ficticcia per una empresa IT. (Guillem - Estetica / Miquel - Marketing)
+    - Eines Usades: Canva i Aplicatius.
+- Projecte 3: Creació SaaS per trading web. (Valles - Estructura / Joan - Codificacio)
+    - Eines Usades: Figma, Codex, Obsidian
